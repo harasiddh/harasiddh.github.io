@@ -1,11 +1,14 @@
 github_users:
-  - harasiddh
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - jekyll/jekyll
   - alshedivat/al-folio
-  - harasiddh/tickeshow
-  - harasiddh/memebook
-  - harasiddh/IITM---ML-Project
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
