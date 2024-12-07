@@ -18,6 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 I am currently an M1 Economics student at Toulouse School of Economics
 
-Prior to TSE, I simultaneously pursued two undergraduate degrees. I studied Economics in-person at Shiv Nadar IOE, Delhi (NCR) and studied Data Science at IIT Madras thanks to their online degree 
+Prior to TSE, I was a Dean's List student of Economics at Shiv Nadar IOE, Delhi (NCR). I also simultaneously pursued an online degree in Data Science from IIT Madras
 
-When not dealing with Economics or household chores, I like to read about ancient civilisations and watch English films. I feel that Test cricket is the best format of the game, and have supported Real Madrid since Ronaldo's iconic “calma, calma”
+While I am yet to decide on my preferred field, my favourite paper so far is _The Economic Origins of Government by Robert C. Allen, Mattia C. Bertazzini and Leander Heldring_. I also enjoy reading about developments in other disciplines, particularly Mathematics and Computer Science
+
+When not dealing with academics or household chores, I like to read about ancient civilisations and watch English films. I feel that Test cricket is the best format of the game, and have supported Real Madrid since Ronaldo's iconic “calma, calma”
+
