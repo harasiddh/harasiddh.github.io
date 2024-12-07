@@ -7,9 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-Disclaimer: I do not benefit in any form, shape or manner if you decide to make use of these resources. I am just curating this list so that if anyone interested in these topics, they will find a good place to start. These are recommendations based on personal experience. Please reach out to me if you have believe you can provide a valuable addition to this list. 
+Disclaimer: I do not benefit in any form, shape or manner if you decide to make use of these resources. I am just curating this list so that if anyone is interested in these topics, they will find a good place to start. These are recommendations based on personal experience. Please reach out to me if you believe you can provide a valuable addition to this list
 
 I will use a three star rating scheme to indicate if a resource is meant for a complete beginner (\*), or someone with some exposure to the subject (\**), or someone who is looking for a rigourous source that is academically challenging (\***)
+
 
 
 #### For complete beginners to Economics
