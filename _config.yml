@@ -168,17 +168,17 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: harasiddh.com
-    posts:
-      - url: https://www.harasiddh.com/2022/07/halfway-through-university-heres-what-i.html
-        published_date: 2022-07-25
-      - url: https://www.harasiddh.com/2020/08/psg-vs-fcb-french-and-german-tale.html
-        published_date: 2020-08-23
-      - url: https://www.harasiddh.com/2020/06/the-resurgence-of-reds-liverpools.html
-        published_date: 2020-06-29
-      - url: https://www.harasiddh.com/2020/05/top-five-champions-league-teams-of-this.html
-        published_date: 2020-05-08
+#external_sources:
+#  - name: harasiddh.com
+#    posts:
+#      - url: https://www.harasiddh.com/2022/07/halfway-through-university-heres-what-i.html
+#        published_date: 2022-07-25
+#      - url: https://www.harasiddh.com/2020/08/psg-vs-fcb-french-and-german-tale.html
+#        published_date: 2020-08-23
+#      - url: https://www.harasiddh.com/2020/06/the-resurgence-of-reds-liverpools.html
+#        published_date: 2020-06-29
+#      - url: https://www.harasiddh.com/2020/05/top-five-champions-league-teams-of-this.html
+#        published_date: 2020-05-08
   # - name: # medium.com
   #  rss_url: # https://medium.com/@al-folio/feed
   # - name: # Google Blog
