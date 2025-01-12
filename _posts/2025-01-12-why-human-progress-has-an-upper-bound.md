@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why humanity's progress rate has an upper bound
-date: 2024-12-07 00:00:00
+date: 2025-01-12 00:00:00
 description: and why we can never truly overcome this
 featured: true
 ---
