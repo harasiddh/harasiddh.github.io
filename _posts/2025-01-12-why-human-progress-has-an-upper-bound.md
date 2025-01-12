@@ -8,7 +8,7 @@ featured: true
 
 I pretty much think about everything using the concept of markets - whether it is about technology, dating, birth rates, health, pollution...everything can be modelled from the perspective of markets
 
-I was just thinking about the marketplace of ideas. The main reason I support free speech is probably not the moralistic argument of giving everyone rights, but the logical argument that this allows everyone's ideas to compete in the marketplace of ideas, thus allowing the best ideas to win, and a subset of these ideas ultimately drives the human race forward.
+I was just thinking about the marketplace of ideas. The main reason to support free speech (apart from the moralistic argument of giving everyone rights) is that this allows everyone's ideas to compete in the marketplace of ideas, thus allowing the best ideas to win, and a subset of these ideas ultimately drives the human race forward.
 
 However, I was recently wondering whether the best ideas actually win? I was talking to a friend of mine, and he is among the smartest two or three people that I know (and I know a lot of really smart people). He was trying to explain something to me, and I was unable to fully comprehend what he was saying. This required him to 'dumb it down' for me.
 
