@@ -10,9 +10,9 @@ I pretty much think about everything using the concept of markets - whether it i
 
 I was just thinking about the marketplace of ideas. The main reason I support free speech is probably not the moralistic argument of giving everyone rights, but the logical argument that this allows everyone's ideas to compete in the marketplace of ideas, thus allowing the best ideas to win, and a subset of these ideas ultimately drives the human race forward.
 
-However, I was recently wondering if the best ideas actually even win? I was talking to a friend of mine recently, and he is among the smartest two or three people that I know (and I know a lot of really smart people). He was trying to explain something to me, and I was unable to fully comprehend what he was saying. This required him to 'dumb it down' for me.
+However, I was recently wondering whether the best ideas actually win? I was talking to a friend of mine, and he is among the smartest two or three people that I know (and I know a lot of really smart people). He was trying to explain something to me, and I was unable to fully comprehend what he was saying. This required him to 'dumb it down' for me.
 
-However, in the act of dumbing it down, the true essence of what he was trying to say was not entirely communicated, which he later confirmed. That made me wonder - how many market failures have we had in the marketplace for ideas? How many great ideas have we simple ignored, if not gotten rid off, just because there weren't enough of us who could understand it?
+However, in the act of dumbing it down, the true essence of what he was trying to say was not entirely communicated, which he later confirmed. That made me wonder - how many market failures have we had in the marketplace for ideas? How many great ideas have we simply ignored, if not outright rejected, just because there weren't enough of us who could understand it?
 
 Assume the broaden possible definition of human intelligence, and assume that the population is normally distributed. Also assume that people can only understand stuff that is at or below their intelligence level (which is a pretty reasonable assumption). 
 
@@ -20,11 +20,11 @@ If the society you live in supports free speech (atleast to a certain level), we
 
 This is scary. 
 
-Then one might say - well, what if you're not in a democracy? Well, then assuming that we are in the beginning of whatever non-democratic rule is in place, we can assume that there is one person who is randomly assigned to play the role of dictator. Now, this dictator also has a certain level of intelligence, and hence, will automatically reject an idea that is not comprehensible to them.
+Then one might say - what if you're not in a democracy? Well, then assuming that we are in the beginning of whatever non-democratic rule is in place, we can assume that there is one person who is randomly assigned to play the role of 'social planner'. Now, this person also has a certain level of intelligence, and hence, will automatically reject an idea that is not comprehensible to them.
 
 Again, scary. 
 
-Both of these examples show that there is an upper bound on the rate of human progress. In a full democracy, this is the 50th percentile. In a total dictatorship, it is the percentile of intelligence the dictator is at. However, no human society is a full democracy or a total dictatorship, so our rate of progress is upper bounded by something in between. 
+Both of these examples show that there is an upper bound on the rate of human progress. In a full democracy, this is the 50th percentile. Alternatively, it is the percentile of intelligence the 'social planner' is at. However, every human society is somewhere in between the two, so our rate of progress is upper bounded by something in between. 
 
 Still scary. 
 
