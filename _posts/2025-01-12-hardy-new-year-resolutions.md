@@ -16,4 +16,4 @@ GH Hardy, who was Ramanujan's mentor, apparently sent the following list of reso
 
 And ordinary human beings like me (and maybe you? Unless you're the next GH Hardy) write something like *go to the gym every day*
 
-I don't think Hardy managed to achieve any of the above before he died, but atleast he failed at something big. Meanwhile, I couldn't keep up with my resolution to drink 8 glasses of water a day (I drank 10 today).
+I don't think Hardy managed to achieve any of the above before he died, but atleast he failed at something big. Meanwhile, I couldn't keep up with my resolution to drink 8 glasses of water a day (I drank 10 today)
