@@ -10,7 +10,7 @@ I recently came across this video which really struck a chord in me - not becaus
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="<iframe width="1080" height="608" src="https://www.youtube.com/embed/LHqFFPYuTBw" title="Stop Being An Insecure Overachiever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/LHqFFPYuTBw" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
