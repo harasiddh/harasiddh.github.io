@@ -12,11 +12,11 @@ nav_order: 3
 
 ### videos worth watching - an (in)complete list
 
-1. [Understanding String Theory](https://youtu.be/Da-2h2B4faU) - also check out other videos on their channel
-2. [This company wants to put themselves out of business](https://youtu.be/Pv1Otdg4fok) - and I really admire them for it
-3. [Watch this if you don't believe in yourself](https://youtu.be/yBEfU-Ul_iI) - and then do what you want to do
-4. [Phases of studying Mathematics](https://youtu.be/48Hr3CT5Tpk) - and I personally experienced this transformation after my first rigorous course
-5. [Best Speech Ever?](https://youtu.be/wD2cVhC-63I) - and I would recommend everyone who wishes to become a better public speaker to watch this
+1. [Understanding String Theory](https://youtu.be/Da-2h2B4faU)
+2. [This company wants to put themselves out of business](https://youtu.be/Pv1Otdg4fok)
+3. [Watch this if you don't believe in yourself](https://youtu.be/yBEfU-Ul_iI)
+4. [Phases of studying Mathematics](https://youtu.be/48Hr3CT5Tpk) 
+5. [Best Speech Ever?](https://youtu.be/wD2cVhC-63I) 
 
 
 ### learning
