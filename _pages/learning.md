@@ -19,9 +19,9 @@ nav_order: 3
 5. [Best Speech Ever?](https://youtu.be/wD2cVhC-63I) - and I would recommend everyone who wishes to become a better public speaker to watch this
 
 
-### Learning
+### learning
 
-I will use a three star rating scheme to indicate if a resource is meant for a complete beginner (\*), or someone with some exposure to the subject (\**), or someone who is looking for a rigourous source that is academically challenging (\***)
+I use a three star rating scheme to indicate if a resource is meant for a complete beginner (\*), or someone with some exposure to the subject (\**), or someone who is looking for a rigourous source that is academically challenging (\***)
 
 #### For complete beginners to Economics
 1. **Principles of Economics** by Greg Mankiw *
