@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DO(N'T) be yourself
+title: (don't) be yourself
 date: 2025-02-28 00:00:00
 description: when reinvention is required
 featured: true
