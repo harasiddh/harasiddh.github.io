@@ -28,15 +28,56 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
     <p></p>
     <h5><a href="https://monkofalltrades.substack.com">Click here to read my writings on Substack, and do subscribe as well :)<a></h5>  -->
-    <h5>Read and subscribe to my blog using the link below</h5>
-    <iframe id="substack-embed" 
-        src="https://monkofalltrades.substack.com/embed" 
-        width="480" 
-        height="320" 
-        style="border:1px solid #EEE; background:white; border-radius:12px; overflow:hidden;" 
-        frameborder="0" 
-        scrolling="no">
-</iframe>
+    <h6 class="subscribe-description-1">Subscribe to my blog using the link below</h6>
+    <h6 class="subscribe-description-2">to receive emails with the latest posts :)</h6>
+    <div class="iframe-container">
+        <iframe id="substack-embed" 
+            src="https://monkofalltrades.substack.com/embed" 
+            width="480" 
+            height="320" 
+            style="border:1px solid #EEE; background:white; border-radius:12px; overflow:hidden;" 
+            frameborder="0" 
+            scrolling="no">
+        </iframe>
+    </div>
+
+
+<style>
+  .header-bar {
+      text-align: center; 
+      padding: 10px;
+  }
+
+  .subscribe-description-1 {
+      margin-bottom: 5px;
+  }
+
+  .subscribe-description-2 {
+      margin-bottom: 10px;
+  }
+
+  .iframe-container {
+      display: flex;
+      justify-content: center;
+  }
+
+  iframe {
+      width: 100%; 
+      max-width: 480px; 
+      height: 320px; 
+  }
+
+  /* Responsive Design */
+  @media (max-width: 500px) {
+      .blog-description {
+          font-size: 16px; /* Slightly smaller text for small screens */
+      }
+      
+      iframe {
+          height: 280px; /* Reduce height slightly for smaller screens */
+      }
+  }
+</style>
 
 
   </div>
