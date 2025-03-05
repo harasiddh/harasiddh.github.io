@@ -27,7 +27,7 @@ pagination:
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>
     <p></p>
-    <h5><a href="https://monkofalltrades.substack.com">Check out all posts on Substack, and do subscribe as well :)<a></h5>
+    <h5><a href="https://monkofalltrades.substack.com">Click here to read everything on Substack, and do subscribe as well :)<a></h5>
   </div>
   {% endif %}
 
