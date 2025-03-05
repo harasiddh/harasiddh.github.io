@@ -24,10 +24,21 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
+    <!-- <h2>{{ site.blog_name }}</h2>
     <h2>{{ site.blog_description }}</h2>
     <p></p>
-    <h5><a href="https://monkofalltrades.substack.com">Click here to read my writings on Substack, and do subscribe as well :)<a></h5>
+    <h5><a href="https://monkofalltrades.substack.com">Click here to read my writings on Substack, and do subscribe as well :)<a></h5>  -->
+    <h5>Read and subscribe to my blog using the link below</h5>
+    <iframe id="substack-embed" 
+        src="https://monkofalltrades.substack.com/embed" 
+        width="480" 
+        height="320" 
+        style="border:1px solid #EEE; background:white; border-radius:12px; overflow:hidden;" 
+        frameborder="0" 
+        scrolling="no">
+</iframe>
+
+
   </div>
   {% endif %}
 

@@ -6,6 +6,10 @@ description: when reinvention is required
 featured: true
 ---
 
+<center> <div class="substack-post-embed"><p lang="en">(don’t) be yourself by Harasiddh G</p><p></p><a data-post-link href="https://monkofalltrades.substack.com/p/reinventing-yourself">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script> </center>
+
+<p>&nbsp;</p>
+
 I have never really agreed with the phrase "just be yourself" until recently.
 
 Certain events have required me to change a lot about the way I operate and live, and NGL, I struggled with the change. I used to keep wondering "Why me?" or "Why do I need to change?" because I felt the urge to just be myself.
