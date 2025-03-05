@@ -2,12 +2,15 @@
 layout: page
 permalink: /public-goods/
 title: public-goods
-description: some useful resources
+description:
 nav: true
 nav_order: 3
 ---
 
-*Disclaimer: I do not benefit in any form, shape or manner if you decide to make use of these resources. I am just curating this list in case someone might benefit from it. These are recommendations based on personal experience. Please reach out to me if you believe you can provide a valuable addition to this list*
+*Disclaimer: I do not benefit in any form, shape or manner if you decide to make use of these resources. I am just curating this list in case someone might benefit from it. These are recommendations based on personal experience. Please reach out to me if you believe you can provide a valuable addition to this list.*
+
+
+<br>
 
 
 ### videos worth watching - an (in)complete list
