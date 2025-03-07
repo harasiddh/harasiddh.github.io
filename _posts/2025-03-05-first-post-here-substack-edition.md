@@ -3,7 +3,7 @@ layout: post
 title: First Post Here - Substack Edition
 date: 2025-03-05 00:20:00
 description: please do subscribe :)
-featured: true
+featured: false
 ---
 
 <center> <div class="substack-post-embed"><p lang="en">First Post Here - Substack Edition by Harasiddh G</p><p></p><a data-post-link href="https://monkofalltrades.substack.com/p/coming-soon">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script> </center>
