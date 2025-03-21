@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Surviving the AI Age: Why India Must Go Back to the Factory Floor
-date: 2025-03-21 11:42:00 +0530
+title: "Surviving the AI Age: Why India Must Go Back to the Factory Floor"
+date: 2025-03-21 23:42:00 +0530
 description: A (non-satirical) Modest Proposal from a future economist for current policymakers
 featured: false
 ---
