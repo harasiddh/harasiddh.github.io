@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-Click [here](https://drive.google.com/file/d/1iFt6-qBHPiVu-qOi1yTXS46tz37rsWeG/view?usp=sharing) to access my latest CV
+Click [here](https://drive.google.com/file/d/1ugggB8jIwIoea4ZGJ5c_MwEZMuIP4ypo/view?usp=sharing) to access my latest CV
