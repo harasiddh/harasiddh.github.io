@@ -20,7 +20,7 @@ I am currently an M1 Economics student at [Toulouse School of Economics](https:/
 
 Prior to TSE, I was a Dean's List student of [Economics at Shiv Nadar IOE](https://snu.edu.in/schools/school-of-humanities-and-social-sciences/departments/department-of-economics/) while simultaneously pursuing an online degree in [Data Science from IIT Madras](https://study.iitm.ac.in/ds/)
 
-My philosophy of life is simple: play unfair games fairly without giving up
+My philosophy of life is simple: keep playing unfair games fairly without giving up
 
 When not dealing with academics or household chores, I like to read about [ancient civilisations](https://www.forbes.com/sites/conormurray/2023/09/18/how-often-do-men-think-about-the-roman-empire-a-lot-according-to-new-tiktok-trend/) and watch [English films](https://www.youtube.com/watch?v=YbBiXPVKuTA)
 
