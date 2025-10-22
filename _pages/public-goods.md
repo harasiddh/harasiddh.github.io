@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-*Disclaimer: I do not benefit in any form, shape or manner if you decide to make use of these resources. I am just curating this list in case someone might benefit from it. These are recommendations based on personal experience. Please reach out to me if you believe you can provide a valuable addition to this list.*
+*Disclaimer: These are recommendations based on personal experience. I do not benefit in any manner if you decide to make use of these resources. Please reach out if you can provide a valuable addition to this list.*
 
 
 <hr style="height:10px; visibility:hidden;"/>
