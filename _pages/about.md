@@ -22,7 +22,7 @@ Prior to TSE, I was a Dean's List student of [Economics at Shiv Nadar IOE](https
 
 My philosophy of life is simple: keep playing unfair games fairly without giving up
 
-When not dealing with academics or household chores, I like to read about [ancient civilisations](https://www.forbes.com/sites/conormurray/2023/09/18/how-often-do-men-think-about-the-roman-empire-a-lot-according-to-new-tiktok-trend/) and watch [English films](https://www.youtube.com/watch?v=YbBiXPVKuTA)
+When not proving theorems or trying out new recipes, I like to read about [ancient civilisations](https://www.forbes.com/sites/conormurray/2023/09/18/how-often-do-men-think-about-the-roman-empire-a-lot-according-to-new-tiktok-trend/), watch [English films](https://youtu.be/YbBiXPVKuTA), and [documentaries on the animal kingdom](https://youtu.be/yfs6ef5YcFs)
 
 I feel that [Test cricket is the best format of the game](https://www.espncricinfo.com/series/australia-tour-of-india-2000-01-61425/india-vs-australia-2nd-test-63920/full-scorecard), and have supported Real Madrid since Ronaldo's iconic [“calma, calma”](https://www.reddit.com/r/realmadrid/comments/cz2q6o/the_highlight_of_the_year_2012_calma_calma/)
 
