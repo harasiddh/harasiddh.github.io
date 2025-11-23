@@ -53,6 +53,7 @@ I use a three star rating scheme to indicate if a resource is meant for a comple
 3. [Watch this if you don't believe in yourself](https://youtu.be/yBEfU-Ul_iI)
 4. [Phases of studying Mathematics](https://youtu.be/48Hr3CT5Tpk) 
 5. [Best Speech Ever?](https://youtu.be/wD2cVhC-63I) 
+6. [The world needs more men like him](https://youtu.be/LZEY15Fsjgk)
 
 
 
