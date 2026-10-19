@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a fully-funded Masters student at [Toulouse School of Economics](https://www.tse-fr.eu/)
 
-My interests are in microeconomic theory and industrial organisation, particularly contracts, game theory and competition.
+My interests are in microeconomic theory and industrial organisation, particularly contracts, game theory and competition
 
 Prior to TSE, I was a Dean's List student of [Economics at Shiv Nadar IOE](https://snu.edu.in/schools/school-of-humanities-and-social-sciences/departments/department-of-economics/) while simultaneously pursuing an online degree in [Data Science from IIT Madras](https://study.iitm.ac.in/ds/)
 
