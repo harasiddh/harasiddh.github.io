@@ -4,6 +4,7 @@ title: Remembering the value of π up to 30 decimal digits
 date: 2025-03-15 21:33:00 +0530
 description: Using the कटपयादि system from India, you only need to memorize a phrase or two
 featured: false
+published: false
 ---
 
 <center> 

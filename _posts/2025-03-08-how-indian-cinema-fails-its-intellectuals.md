@@ -4,6 +4,7 @@ title: How Indian Cinema Fails Its Intellectuals
 date: 2025-03-08 10:48:00 +0530
 description: The cost of a culture that overlooks its intellectuals on the big screen
 featured: false
+published: false
 ---
 
 <center> 

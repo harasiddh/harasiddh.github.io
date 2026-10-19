@@ -4,6 +4,7 @@ title: (don't) be yourself
 date: 2025-02-28 00:00:00
 description: when reinvention is required
 featured: false
+published: false
 ---
 
 <center> <div class="substack-post-embed"><p lang="en">(don’t) be yourself by Harasiddh G</p><p></p><a data-post-link href="https://monkofalltrades.substack.com/p/reinventing-yourself">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script> </center>
